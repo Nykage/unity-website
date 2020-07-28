@@ -28,7 +28,7 @@
             <span>{version.VersionNumber}</span>
             {#if showText}
             <div class="text">
-                <a href="{version.DownloadLink}"><b>Download this version here</b></a>
+                <a href="{version.DownloadLink}" target="_blank"><b>Download this version here</b></a>
                 <br>
                 <span>{version.Hint}</span>
             </div>
