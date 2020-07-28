@@ -8,7 +8,7 @@
         Here you can download each version of my first Unity game project.
     </p>
     <p>
-        Play any version of my game that you want.
+        The game is continously updated with new versions.
         <br>
         I would appreciate, if you leave me some feedback!
     </p>
